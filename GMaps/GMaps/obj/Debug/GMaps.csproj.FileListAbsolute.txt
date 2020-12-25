@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\bin\Debug\GMaps.exe.config
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\bin\Debug\GMaps.exe
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\bin\Debug\GMaps.pdb
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.Frm.resources
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.Properties.Resources.resources
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.exe
+C:\Users\HP\Desktop\C# projects\GMaps\GMaps\obj\Debug\GMaps.pdb
